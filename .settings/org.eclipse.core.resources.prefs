@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//plugin/cpu.py=utf-8
+encoding//plugin/disk.py=utf-8
+encoding//plugin/network.py=utf-8
+encoding//psutil/__init__.py=utf-8
+encoding//server_api/get_server.py=utf-8
+encoding//utils/kafka_ops.py=utf-8
+encoding//utils/logger.py=utf-8
+encoding//utils/master.py=utf-8
+encoding/agent.py=utf-8
